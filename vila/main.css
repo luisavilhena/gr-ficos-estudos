@@ -1,0 +1,17 @@
+.image {
+  margin-left: 120px;
+  background-image: url('vila.png');
+  width: 600px;
+  height: 300px;
+}
+#chart_div {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+#_ABSTRACT_RENDERER_ID_0 {
+  fill: transparent;
+}
+rect {
+  fill: transparent;
+}
